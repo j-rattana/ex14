@@ -26,12 +26,13 @@ header, footer{
 }
 
 .navLogo {
-  font-size: 2.9rem;
-  font-weight: 700;
+  font-size: 2.5rem;
   padding: 10px;
   font-family: "Inter", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 6px;
   font-style: normal;
+  text-transform: uppercase;
 }
 
 footer p {
